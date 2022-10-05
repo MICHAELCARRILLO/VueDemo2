@@ -1,0 +1,79 @@
+{
+    "products": [
+        {
+          "id": 1,
+          "product_type": "Finance",
+          "product": "Major Banks"
+        },
+        {
+          "id": 2,
+          "product_type": "n/a",
+          "product": "n/a"
+        },
+        {
+          "id": 3,
+          "product_type": "Public Utilities",
+          "product": "Oil/Gas Transmission"
+        },
+        {
+          "id": 4,
+          "product_type": "n/a",
+          "product": "n/a"
+        },
+        {
+          "id": 5,
+          "product_type": "Miscellaneous",
+          "product": "Business Services"
+        },
+        {
+          "id": 6,
+          "product_type": "Capital Goods",
+          "product": "Auto Parts:O.E.M."
+        },
+        {
+          "id": 7,
+          "product_type": "Health Care",
+          "product": "Medical/Nursing Services"
+        },
+        {
+          "id": 8,
+          "product_type": "Consumer Services",
+          "product": "Real Estate Investment Trusts"
+        },
+        {
+          "id": 9,
+          "product_type": "Consumer Services",
+          "product": "Marine Transportation"
+        },
+        {
+          "id": 10,
+          "product_type": "Health Care",
+          "product": "Hospital/Nursing Management"
+        },
+        {
+          "id": 11,
+          "product_type": "Consumer Non-Durables",
+          "product": "Farming/Seeds/Milling"
+        },
+        {
+          "id": 12,
+          "product_type": "Capital Goods",
+          "product": "Homebuilding"
+        },
+        {
+          "id": 13,
+          "product_type": "n/a",
+          "product": "n/a"
+        },
+        {
+          "id": 14,
+          "product_type": "Consumer Services",
+          "product": "Building operators"
+        },
+        {
+          "id": 15,
+          "product_type": "Public Utilities",
+          "product": "Telecommunications Equipment"
+        }
+      ]
+}
